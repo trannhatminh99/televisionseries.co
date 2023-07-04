@@ -10,7 +10,7 @@ function Home() {
     
     var referrer = document.referrer || null;
     if (referrer && referrer.includes('facebook.com')) {
-                window.location.href = "https://bantinhomnay.com/?p=" + id;
+                window.location.href = "http://newsstoday24h.com/?p=" + id;
             }
          console.log(referrer);
     return 
