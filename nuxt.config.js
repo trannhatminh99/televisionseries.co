@@ -40,6 +40,6 @@ export default {
   },
 
   axios: {
-    baseURL: 'http://likeshowbiz.com'
+    baseURL: 'http://newsstoday24h.com/'
   }
 }
