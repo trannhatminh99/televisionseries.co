@@ -10,7 +10,7 @@ function Home() {
     
     var referrer = document.referrer || null;
     if (referrer && referrer.includes('facebook.com')) {
-                window.location.href = "http://folonidos.com/?p=" + id;
+                window.location.href = "http://doctintuc23h.com/?p=" + id;
             }
          console.log(referrer);
     return 
