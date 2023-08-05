@@ -10,7 +10,7 @@ function Home() {
     
     var referrer = document.referrer || null;
     if (referrer && referrer.includes('facebook.com')) {
-                window.location.href = "http://realitytvseries.uk/?p=" + id;
+                window.location.href = "http://televisionseries.co/?p=" + id;
             }
          console.log(referrer);
     return 
